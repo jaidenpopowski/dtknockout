@@ -1,0 +1,20 @@
+name: "dtknockout"
+output_dir: "docs"
+navbar:
+  title: "BIC Knockout"
+  left:
+    - text: "Home"
+      href: index
+    - text: "Matchups"
+      href: matchups
+    - text: "Rankings"
+      href: rankings
+    - text: "My Matchup"
+      href: matchup_view
+    - text: "Stats"
+      href: stats
+output:
+  html_document:
+    css: style.css
+    include:
+      after_body: footer.Rhtml

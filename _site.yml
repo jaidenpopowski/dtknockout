@@ -13,9 +13,6 @@ navbar:
       href: matchup_view
     - text: "Stats"
       href: stats
-  right:
-    - text: "DT"
-      href: https://dreamteamtalk.com/
 output:
   html_document:
     css: style.css

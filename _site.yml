@@ -9,8 +9,8 @@ navbar:
       href: matchups
     - text: "Rankings"
       href: rankings
-    - text: "My Matchup"
-      href: matchup_view
+    # - text: "My Matchup"
+    #   href: matchup_view
     - text: "Stats"
       href: stats
 output:
